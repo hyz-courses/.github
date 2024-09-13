@@ -1,6 +1,6 @@
 # 📚 Welcome to my collection of Course Notes! ✏
 
-`Learning by doing. --- Prof. Xu`
+> Learning by doing. --- Prof. Xu
 
 ## What is this organization for? 🤔
 This is a github organization owned by me that is used as a collection to store my course notes.
