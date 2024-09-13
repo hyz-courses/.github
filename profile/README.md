@@ -1,4 +1,4 @@
-# 📚 Welcome to Yanzhen Huang's collection of Course Notes! ✏
+# 📚 Welcome to my collection of Course Notes! ✏
 
 `Learning by doing. --- Prof. Xu`
 
